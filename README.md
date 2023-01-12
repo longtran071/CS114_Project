@@ -32,19 +32,19 @@
       </tr>
       <tr>
        <td>Trần Duy Thanh</td>
-       <td>20520795</td>
-       <td> https://github.com/ThuanE3691</td>
+       <td>20521925</td>
+       <td> https://github.com/Thanhalone0106</td>
        <td>20520795@gm.uit.edu.vn</td>  
       </tr>
       <tr>
        <td>Trần Văn Long</td>
-       <td>20520785</td>
-       <td> https://github.com/Snallz121</td>
+       <td>20521576</td>
+       <td> https://github.com/longtran071</td>
        <td>20520785@gm.uit.edu.vn</td>  
       </tr>
       <tr>
        <td>Nguyễn Anh Tuấn</td>
-       <td>20520767</td>
+       <td>20522114</td>
        <td>https://github.com/TTTThanh2812</td>
        <td>20520767@gm.uit.edu.vn</td>  
       </tr>
