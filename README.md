@@ -55,38 +55,9 @@
   Chủ đề báo cáo 
 </h2>
 
-- **Tên đồ án:** Phân tích và xác định kí tự biển số xe  
+- **Tên đồ án:** Phân tích và làm mờ biển số xe  
 - **Thư mục lưu trữ:** [Project](Project)
 
-<h3>
-  Mô tả đồ án
-</h3>
-
-<h3>
-  1. Mô tả bài toán
-</h3>
-
-**Input**: Một tấm ảnh được chụp chính diện và trong tấm ảnh có một biển số xe Việt Nam
-
-**Output**: Các kí tự trên biển số xe theo đúng thứ tự
-
-**Ngữ cảnh ứng dụng**: Hệ thống bãi giữ xe 
-
-<h3>
-  2. Mô tả bộ dữ liệu
-</h3>
-
-**Cách thức xây dựng bộ dữ liệu**: Trên mạng kết hợp tự chụp ở ngoài
-
-**Số lượng, độ đa dạng**: 
-- 940 Biển số xe oto
-- 1400 Biển số xe máy
-
-**Thao tác tiền xử lí**
-
-**Phân chia dữ liệu**
-- 80% dùng để train
-- 20% dùng để test
 
 
 
