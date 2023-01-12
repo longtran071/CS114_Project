@@ -56,7 +56,6 @@
 </h2>
 
 - **Tên đồ án:** Phân tích và làm mờ biển số xe  
-- **Thư mục lưu trữ:** [Project](Project)
 
 
 
